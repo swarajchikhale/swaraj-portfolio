@@ -161,5 +161,5 @@ This project is open source and available for personal use.
 ---
 
 <p align="center">
-  Built with 💙 by <strong>Swaraj Chikhale</strong>
+  Built with ❤️ by <strong>Swaraj Chikhale</strong>
 </p>
